@@ -89,3 +89,4 @@ Generate custom filters in the [GSC Regex Generator](https://www.nitroserp.com/t
 - [FAQ Schema in 2026: What Still Works](https://www.nitroserp.com/blog/faq-schema-2026-what-still-works)
 - [Fix Breadcrumb Schema Missing Field `item` Error](https://www.nitroserp.com/blog/breadcrumb-schema-missing-field-item)
 - [ChatGPT Brand Visibility Audit Guide](https://www.nitroserp.com/blog/ai-visibility-checker-chatgpt-2026)
+- [Fix "Sitemap Could Not Be Read" & "Couldn't Fetch" in GSC](https://www.nitroserp.com/blog/fix-sitemap-could-not-be-read-gsc) — Next.js `app/sitemap.ts`, Cloudflare Bot Fight Mode, and XML namespace debugging
